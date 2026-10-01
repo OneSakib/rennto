@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Rennto",
+    "slug": "rennto",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "rennto",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router", "expo-secure-store"],
+    "experiments": {"typedRoutes": true}
+  }
+}
